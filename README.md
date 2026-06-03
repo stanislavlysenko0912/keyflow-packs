@@ -10,6 +10,7 @@ Each catalog entry points to one exported Keyflow profile:
 {
   "id": "com.example.App",
   "version": 1,
+  "profileSchemaVersion": 1,
   "title": "Example App",
   "summary": "Starter shortcuts for Example App.",
   "category": "productivity",
@@ -23,6 +24,7 @@ Each catalog entry points to one exported Keyflow profile:
 
 - `id` is stable and should usually match the app bundle identifier.
 - `version` is incremented when the pack content changes.
+- `profileSchemaVersion` is the exported Keyflow profile schema used by the pack file.
 - `path` is relative to the repository root.
 - Pack files use Keyflow's exported JSON profile format.
 

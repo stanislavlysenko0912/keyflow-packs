@@ -11,7 +11,8 @@
         "name": "Adobe Photoshop 2025",
         "bundleIdentifier": "com.adobe.Photoshop"
       },
-      "path": "packs/adobe-photoshop-2025.json"
+      "path": "packs/adobe-photoshop-2025.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.google.android.studio",
@@ -23,7 +24,8 @@
         "name": "Android Studio",
         "bundleIdentifier": "com.google.android.studio"
       },
-      "path": "packs/android-studio.json"
+      "path": "packs/android-studio.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.google.antigravity-ide",
@@ -35,7 +37,8 @@
         "name": "Antigravity IDE",
         "bundleIdentifier": "com.google.antigravity-ide"
       },
-      "path": "packs/antigravity-ide.json"
+      "path": "packs/antigravity-ide.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.microsoft.VSCode",
@@ -47,7 +50,8 @@
         "name": "Code",
         "bundleIdentifier": "com.microsoft.VSCode"
       },
-      "path": "packs/code.json"
+      "path": "packs/code.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.todesktop.230313mzl4w4u92",
@@ -59,7 +63,8 @@
         "name": "Cursor",
         "bundleIdentifier": "com.todesktop.230313mzl4w4u92"
       },
-      "path": "packs/cursor.json"
+      "path": "packs/cursor.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "company.thebrowser.dia",
@@ -71,7 +76,8 @@
         "name": "Dia",
         "bundleIdentifier": "company.thebrowser.dia"
       },
-      "path": "packs/dia.json"
+      "path": "packs/dia.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.figma.Desktop",
@@ -83,7 +89,8 @@
         "name": "Figma",
         "bundleIdentifier": "com.figma.Desktop"
       },
-      "path": "packs/figma.json"
+      "path": "packs/figma.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.jetbrains.goland",
@@ -95,7 +102,8 @@
         "name": "GoLand",
         "bundleIdentifier": "com.jetbrains.goland"
       },
-      "path": "packs/goland.json"
+      "path": "packs/goland.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.google.Chrome",
@@ -107,7 +115,8 @@
         "name": "Google Chrome",
         "bundleIdentifier": "com.google.Chrome"
       },
-      "path": "packs/google-chrome.json"
+      "path": "packs/google-chrome.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.jetbrains.intellij",
@@ -119,7 +128,8 @@
         "name": "IntelliJ IDEA",
         "bundleIdentifier": "com.jetbrains.intellij"
       },
-      "path": "packs/intellij-idea.json"
+      "path": "packs/intellij-idea.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "dev.kiro.desktop",
@@ -131,7 +141,8 @@
         "name": "Kiro",
         "bundleIdentifier": "dev.kiro.desktop"
       },
-      "path": "packs/kiro.json"
+      "path": "packs/kiro.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "md.obsidian",
@@ -143,7 +154,8 @@
         "name": "Obsidian",
         "bundleIdentifier": "md.obsidian"
       },
-      "path": "packs/obsidian.json"
+      "path": "packs/obsidian.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.jetbrains.PhpStorm",
@@ -155,7 +167,8 @@
         "name": "PhpStorm",
         "bundleIdentifier": "com.jetbrains.PhpStorm"
       },
-      "path": "packs/phpstorm.json"
+      "path": "packs/phpstorm.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.jetbrains.pycharm",
@@ -167,7 +180,8 @@
         "name": "PyCharm",
         "bundleIdentifier": "com.jetbrains.pycharm"
       },
-      "path": "packs/pycharm.json"
+      "path": "packs/pycharm.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.jetbrains.WebStorm",
@@ -179,7 +193,8 @@
         "name": "WebStorm",
         "bundleIdentifier": "com.jetbrains.WebStorm"
       },
-      "path": "packs/webstorm.json"
+      "path": "packs/webstorm.json",
+      "profileSchemaVersion": 1
     },
     {
       "id": "com.exafunction.windsurf",
@@ -191,7 +206,8 @@
         "name": "Windsurf",
         "bundleIdentifier": "com.exafunction.windsurf"
       },
-      "path": "packs/windsurf.json"
+      "path": "packs/windsurf.json",
+      "profileSchemaVersion": 1
     }
   ]
 }
