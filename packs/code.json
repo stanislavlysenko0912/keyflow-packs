@@ -1,0 +1,504 @@
+{
+  "app": {
+    "bundleIdentifier": "com.microsoft.VSCode",
+    "name": "Code"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 35,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘P"
+        }
+      ],
+      "title": "Show Command Palette"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 1048576,
+          "shortcut": "⌘P"
+        }
+      ],
+      "title": "Go to File"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘O"
+        }
+      ],
+      "title": "Go to Symbol in File"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1048576,
+          "shortcut": "⌘T"
+        }
+      ],
+      "title": "Go to Symbol in Workspace"
+    },
+    {
+      "keyCode": 111,
+      "modifiers": 0,
+      "sectionName": "Navigation & Search",
+      "shortcut": "F12",
+      "shortcuts": [
+        {
+          "keyCode": 111,
+          "modifiers": 0,
+          "shortcut": "F12"
+        }
+      ],
+      "title": "Go to Definition"
+    },
+    {
+      "keyCode": 27,
+      "modifiers": 262144,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌃- / ⌃⇧-",
+      "shortcuts": [
+        {
+          "keyCode": 27,
+          "modifiers": 262144,
+          "shortcut": "⌃-"
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 393216,
+          "shortcut": "⌃⇧-"
+        }
+      ],
+      "title": "Go Back / Forward"
+    },
+    {
+      "keyCode": 120,
+      "modifiers": 0,
+      "sectionName": "Editing",
+      "shortcut": "F2",
+      "shortcuts": [
+        {
+          "keyCode": 120,
+          "modifiers": 0,
+          "shortcut": "F2"
+        }
+      ],
+      "title": "Rename Symbol"
+    },
+    {
+      "keyCode": 126,
+      "modifiers": 655360,
+      "sectionName": "Editing",
+      "shortcut": "⌥⇧↑ / ⌥⇧↓",
+      "shortcuts": [
+        {
+          "keyCode": 126,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧↑"
+        },
+        {
+          "keyCode": 125,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧↓"
+        }
+      ],
+      "title": "Copy Line Up / Down"
+    },
+    {
+      "keyCode": 126,
+      "modifiers": 524288,
+      "sectionName": "Editing",
+      "shortcut": "⌥↑ / ⌥↓",
+      "shortcuts": [
+        {
+          "keyCode": 126,
+          "modifiers": 524288,
+          "shortcut": "⌥↑"
+        },
+        {
+          "keyCode": 125,
+          "modifiers": 524288,
+          "shortcut": "⌥↓"
+        }
+      ],
+      "title": "Move Line Up / Down"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘K"
+        }
+      ],
+      "title": "Delete Line"
+    },
+    {
+      "keyCode": 44,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘/",
+      "shortcuts": [
+        {
+          "keyCode": 44,
+          "modifiers": 1048576,
+          "shortcut": "⌘/"
+        }
+      ],
+      "title": "Toggle Line Comment"
+    },
+    {
+      "keyCode": 0,
+      "modifiers": 655360,
+      "sectionName": "Editing",
+      "shortcut": "⌥⇧A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧A"
+        }
+      ],
+      "title": "Toggle Block Comment"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 655360,
+      "sectionName": "Editing",
+      "shortcut": "⌥⇧F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧F"
+        }
+      ],
+      "title": "Format Document"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘L"
+        }
+      ],
+      "title": "Select All Occurrences of Find Match"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        }
+      ],
+      "title": "Add Selection to Next Find Match"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1179648,
+      "sectionName": "Tabs & Windows",
+      "shortcut": "⇧⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘T"
+        }
+      ],
+      "title": "Reopen Closed Editor"
+    },
+    {
+      "keyCode": 48,
+      "modifiers": 262144,
+      "sectionName": "Tabs & Windows",
+      "shortcut": "⌃⇥",
+      "shortcuts": [
+        {
+          "keyCode": 48,
+          "modifiers": 262144,
+          "shortcut": "⌃⇥"
+        }
+      ],
+      "title": "Switch Between Open Editors"
+    },
+    {
+      "keyCode": 42,
+      "modifiers": 1048576,
+      "sectionName": "Tabs & Windows",
+      "shortcut": "⌘\\",
+      "shortcuts": [
+        {
+          "keyCode": 42,
+          "modifiers": 1048576,
+          "shortcut": "⌘\\"
+        }
+      ],
+      "title": "Split Editor"
+    },
+    {
+      "keyCode": 13,
+      "modifiers": 1048576,
+      "sectionName": "Tabs & Windows",
+      "shortcut": "⌘W",
+      "shortcuts": [
+        {
+          "keyCode": 13,
+          "modifiers": 1048576,
+          "shortcut": "⌘W"
+        }
+      ],
+      "title": "Close Editor"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1048576,
+      "sectionName": "Search & Replace",
+      "shortcut": "⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1048576,
+          "shortcut": "⌘F"
+        }
+      ],
+      "title": "Find"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1572864,
+      "sectionName": "Search & Replace",
+      "shortcut": "⌥⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘F"
+        }
+      ],
+      "title": "Replace"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1179648,
+      "sectionName": "Search & Replace",
+      "shortcut": "⇧⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘F"
+        }
+      ],
+      "title": "Find in Files"
+    },
+    {
+      "keyCode": 4,
+      "modifiers": 1179648,
+      "sectionName": "Search & Replace",
+      "shortcut": "⇧⌘H",
+      "shortcuts": [
+        {
+          "keyCode": 4,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘H"
+        }
+      ],
+      "title": "Replace in Files"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1048576,
+          "shortcut": "⌘B"
+        }
+      ],
+      "title": "Toggle Sidebar"
+    },
+    {
+      "keyCode": 50,
+      "modifiers": 262144,
+      "sectionName": "View",
+      "shortcut": "⌃`",
+      "shortcuts": [
+        {
+          "keyCode": 50,
+          "modifiers": 262144,
+          "shortcut": "⌃`"
+        }
+      ],
+      "title": "Toggle Terminal"
+    },
+    {
+      "keyCode": 46,
+      "modifiers": 1179648,
+      "sectionName": "View",
+      "shortcut": "⇧⌘M",
+      "shortcuts": [
+        {
+          "keyCode": 46,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘M"
+        }
+      ],
+      "title": "Toggle Problems Panel"
+    },
+    {
+      "keyCode": 7,
+      "modifiers": 1179648,
+      "sectionName": "View",
+      "shortcut": "⇧⌘X",
+      "shortcuts": [
+        {
+          "keyCode": 7,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘X"
+        }
+      ],
+      "title": "Show Extensions"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 393216,
+      "sectionName": "View",
+      "shortcut": "⌃⇧G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 393216,
+          "shortcut": "⌃⇧G"
+        }
+      ],
+      "title": "Show Source Control"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘= / ⌘-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 1048576,
+          "shortcut": "⌘="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 1048576,
+          "shortcut": "⌘-"
+        }
+      ],
+      "title": "Zoom In / Out"
+    },
+    {
+      "keyCode": 49,
+      "modifiers": 262144,
+      "sectionName": "IntelliSense & Code Actions",
+      "shortcut": "⌃Space",
+      "shortcuts": [
+        {
+          "keyCode": 49,
+          "modifiers": 262144,
+          "shortcut": "⌃Space"
+        }
+      ],
+      "title": "Trigger Suggest"
+    },
+    {
+      "keyCode": 49,
+      "modifiers": 1179648,
+      "sectionName": "IntelliSense & Code Actions",
+      "shortcut": "⇧⌘Space",
+      "shortcuts": [
+        {
+          "keyCode": 49,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘Space"
+        }
+      ],
+      "title": "Trigger Parameter Hints"
+    },
+    {
+      "keyCode": 47,
+      "modifiers": 1048576,
+      "sectionName": "IntelliSense & Code Actions",
+      "shortcut": "⌘.",
+      "shortcuts": [
+        {
+          "keyCode": 47,
+          "modifiers": 1048576,
+          "shortcut": "⌘."
+        }
+      ],
+      "title": "Quick Fix"
+    },
+    {
+      "keyCode": 33,
+      "modifiers": 1572864,
+      "sectionName": "IntelliSense & Code Actions",
+      "shortcut": "⌥⌘[ / ⌥⌘]",
+      "shortcuts": [
+        {
+          "keyCode": 33,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘["
+        },
+        {
+          "keyCode": 30,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘]"
+        }
+      ],
+      "title": "Fold / Unfold Region"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Navigation & Search",
+    "Editing",
+    "Tabs & Windows",
+    "Search & Replace",
+    "View",
+    "IntelliSense & Code Actions"
+  ]
+}

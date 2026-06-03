@@ -1,0 +1,361 @@
+{
+  "app": {
+    "bundleIdentifier": "company.thebrowser.dia",
+    "name": "Dia"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 14,
+      "modifiers": 1048576,
+      "sectionName": "AI & Chat",
+      "shortcut": "⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1048576,
+          "shortcut": "⌘E"
+        }
+      ],
+      "title": "Open Chat"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1048576,
+      "sectionName": "AI & Chat",
+      "shortcut": "⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1048576,
+          "shortcut": "⌘T"
+        }
+      ],
+      "title": "Open Command Bar"
+    },
+    {
+      "keyCode": 0,
+      "modifiers": 1179648,
+      "sectionName": "AI & Chat",
+      "shortcut": "⇧⌘A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘A"
+        }
+      ],
+      "title": "Profile-wide Tab Search"
+    },
+    {
+      "keyCode": 1,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘S",
+      "shortcuts": [
+        {
+          "keyCode": 1,
+          "modifiers": 1048576,
+          "shortcut": "⌘S"
+        }
+      ],
+      "title": "Toggle Focus Mode"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1310720,
+      "sectionName": "View",
+      "shortcut": "⌃⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1310720,
+          "shortcut": "⌃⌘F"
+        }
+      ],
+      "title": "Toggle Full Screen"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘= / ⌘-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 1048576,
+          "shortcut": "⌘="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 1048576,
+          "shortcut": "⌘-"
+        }
+      ],
+      "title": "Zoom In / Out"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1572864,
+      "sectionName": "Tabs",
+      "shortcut": "⌥⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘T"
+        }
+      ],
+      "title": "New Tab in Current Tab Group"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘T"
+        }
+      ],
+      "title": "Reopen Closed Tab"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘] / ⇧⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘["
+        }
+      ],
+      "title": "Next / Previous Tab"
+    },
+    {
+      "keyCode": 18,
+      "modifiers": 1048576,
+      "sectionName": "Tabs",
+      "shortcut": "⌘1",
+      "shortcuts": [
+        {
+          "keyCode": 18,
+          "modifiers": 1048576,
+          "shortcut": "⌘1"
+        }
+      ],
+      "title": "Jump to Tab 1-8"
+    },
+    {
+      "keyCode": 25,
+      "modifiers": 1048576,
+      "sectionName": "Tabs",
+      "shortcut": "⌘9",
+      "shortcuts": [
+        {
+          "keyCode": 25,
+          "modifiers": 1048576,
+          "shortcut": "⌘9"
+        }
+      ],
+      "title": "Jump to Last Tab"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 1048576,
+      "sectionName": "Tabs",
+      "shortcut": "⌘↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 1048576,
+          "shortcut": "⌘↩"
+        }
+      ],
+      "title": "Return Pinned Tab to Base URL"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘D"
+        }
+      ],
+      "title": "Duplicate Tab"
+    },
+    {
+      "keyCode": 45,
+      "modifiers": 1179648,
+      "sectionName": "Window Management",
+      "shortcut": "⇧⌘N",
+      "shortcuts": [
+        {
+          "keyCode": 45,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘N"
+        }
+      ],
+      "title": "New Incognito Window"
+    },
+    {
+      "keyCode": 33,
+      "modifiers": 1048576,
+      "sectionName": "Navigation",
+      "shortcut": "⌘[ / ⌘]",
+      "shortcuts": [
+        {
+          "keyCode": 33,
+          "modifiers": 1048576,
+          "shortcut": "⌘["
+        },
+        {
+          "keyCode": 30,
+          "modifiers": 1048576,
+          "shortcut": "⌘]"
+        }
+      ],
+      "title": "Back / Forward"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1179648,
+      "sectionName": "Navigation",
+      "shortcut": "⇧⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘R"
+        }
+      ],
+      "title": "Hard Reload"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1048576,
+      "sectionName": "Navigation",
+      "shortcut": "⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1048576,
+          "shortcut": "⌘L"
+        }
+      ],
+      "title": "Focus Address Bar"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1048576,
+      "sectionName": "Search",
+      "shortcut": "⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1048576,
+          "shortcut": "⌘F"
+        }
+      ],
+      "title": "Find in Page"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1048576,
+      "sectionName": "Search",
+      "shortcut": "⌘G / ⇧⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1048576,
+          "shortcut": "⌘G"
+        },
+        {
+          "keyCode": 5,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘G"
+        }
+      ],
+      "title": "Find Next / Previous"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Page Actions",
+      "shortcut": "⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        }
+      ],
+      "title": "Bookmark Page"
+    },
+    {
+      "keyCode": 8,
+      "modifiers": 1179648,
+      "sectionName": "Page Actions",
+      "shortcut": "⇧⌘C",
+      "shortcuts": [
+        {
+          "keyCode": 8,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘C"
+        }
+      ],
+      "title": "Copy URL"
+    },
+    {
+      "keyCode": 111,
+      "modifiers": 0,
+      "sectionName": "Developer",
+      "shortcut": "F12",
+      "shortcuts": [
+        {
+          "keyCode": 111,
+          "modifiers": 0,
+          "shortcut": "F12"
+        }
+      ],
+      "title": "Open Developer Tools"
+    },
+    {
+      "keyCode": 32,
+      "modifiers": 1572864,
+      "sectionName": "Developer",
+      "shortcut": "⌥⌘U",
+      "shortcuts": [
+        {
+          "keyCode": 32,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘U"
+        }
+      ],
+      "title": "View Page Source"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "AI & Chat",
+    "View",
+    "Tabs",
+    "Window Management",
+    "Navigation",
+    "Search",
+    "Page Actions",
+    "Developer"
+  ]
+}

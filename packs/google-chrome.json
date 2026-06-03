@@ -1,0 +1,455 @@
+{
+  "app": {
+    "bundleIdentifier": "com.google.Chrome",
+    "name": "Google Chrome"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 17,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘T"
+        }
+      ],
+      "title": "Reopen Last Closed Tab"
+    },
+    {
+      "keyCode": 0,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘A"
+        }
+      ],
+      "title": "Search Tabs"
+    },
+    {
+      "keyCode": 124,
+      "modifiers": 1572864,
+      "sectionName": "Tabs",
+      "shortcut": "⌥⌘→ / ⌥⌘←",
+      "shortcuts": [
+        {
+          "keyCode": 124,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘→"
+        },
+        {
+          "keyCode": 123,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘←"
+        }
+      ],
+      "title": "Next / Previous Tab"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1179648,
+      "sectionName": "Tabs",
+      "shortcut": "⇧⌘] / ⇧⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘["
+        }
+      ],
+      "title": "Next Tab (Bracket)"
+    },
+    {
+      "keyCode": 18,
+      "modifiers": 1048576,
+      "sectionName": "Tabs",
+      "shortcut": "⌘1",
+      "shortcuts": [
+        {
+          "keyCode": 18,
+          "modifiers": 1048576,
+          "shortcut": "⌘1"
+        }
+      ],
+      "title": "Jump to Tab 1-8"
+    },
+    {
+      "keyCode": 25,
+      "modifiers": 1048576,
+      "sectionName": "Tabs",
+      "shortcut": "⌘9",
+      "shortcuts": [
+        {
+          "keyCode": 25,
+          "modifiers": 1048576,
+          "shortcut": "⌘9"
+        }
+      ],
+      "title": "Jump to Last Tab"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 1703936,
+      "sectionName": "Tabs",
+      "shortcut": "⌥⇧⌘P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 1703936,
+          "shortcut": "⌥⇧⌘P"
+        }
+      ],
+      "title": "Pin / Unpin Current Tab"
+    },
+    {
+      "keyCode": 45,
+      "modifiers": 1179648,
+      "sectionName": "Windows",
+      "shortcut": "⇧⌘N",
+      "shortcuts": [
+        {
+          "keyCode": 45,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘N"
+        }
+      ],
+      "title": "New Incognito Window"
+    },
+    {
+      "keyCode": 33,
+      "modifiers": 1048576,
+      "sectionName": "Navigation",
+      "shortcut": "⌘[ / ⌘]",
+      "shortcuts": [
+        {
+          "keyCode": 33,
+          "modifiers": 1048576,
+          "shortcut": "⌘["
+        },
+        {
+          "keyCode": 30,
+          "modifiers": 1048576,
+          "shortcut": "⌘]"
+        }
+      ],
+      "title": "Back / Forward"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1179648,
+      "sectionName": "Navigation",
+      "shortcut": "⇧⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘R"
+        }
+      ],
+      "title": "Hard Reload (Bypass Cache)"
+    },
+    {
+      "keyCode": 49,
+      "modifiers": 0,
+      "sectionName": "Navigation",
+      "shortcut": "Space / ⇧Space",
+      "shortcuts": [
+        {
+          "keyCode": 49,
+          "modifiers": 0,
+          "shortcut": "Space"
+        },
+        {
+          "keyCode": 49,
+          "modifiers": 131072,
+          "shortcut": "⇧Space"
+        }
+      ],
+      "title": "Scroll Down / Up by Screen"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1048576,
+      "sectionName": "Address Bar & Search",
+      "shortcut": "⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1048576,
+          "shortcut": "⌘L"
+        }
+      ],
+      "title": "Focus Address Bar"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 524288,
+      "sectionName": "Address Bar & Search",
+      "shortcut": "⌥↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 524288,
+          "shortcut": "⌥↩"
+        }
+      ],
+      "title": "Open URL in New Background Tab"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 262144,
+      "sectionName": "Address Bar & Search",
+      "shortcut": "⌃↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 262144,
+          "shortcut": "⌃↩"
+        }
+      ],
+      "title": "Add www. and .com to URL"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1048576,
+      "sectionName": "Page",
+      "shortcut": "⌘G / ⇧⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1048576,
+          "shortcut": "⌘G"
+        },
+        {
+          "keyCode": 5,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘G"
+        }
+      ],
+      "title": "Find Next / Previous Match"
+    },
+    {
+      "keyCode": 32,
+      "modifiers": 1572864,
+      "sectionName": "Page",
+      "shortcut": "⌥⌘U",
+      "shortcuts": [
+        {
+          "keyCode": 32,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘U"
+        }
+      ],
+      "title": "View Page Source"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘= / ⌘-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 1048576,
+          "shortcut": "⌘="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 1048576,
+          "shortcut": "⌘-"
+        }
+      ],
+      "title": "Zoom In / Out"
+    },
+    {
+      "keyCode": 29,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘0",
+      "shortcuts": [
+        {
+          "keyCode": 29,
+          "modifiers": 1048576,
+          "shortcut": "⌘0"
+        }
+      ],
+      "title": "Reset Zoom"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1310720,
+      "sectionName": "View",
+      "shortcut": "⌃⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1310720,
+          "shortcut": "⌃⌘F"
+        }
+      ],
+      "title": "Toggle Full Screen"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1179648,
+      "sectionName": "View",
+      "shortcut": "⇧⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘B"
+        }
+      ],
+      "title": "Show / Hide Bookmarks Bar"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Bookmarks & History",
+      "shortcut": "⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        }
+      ],
+      "title": "Bookmark Current Page"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1572864,
+      "sectionName": "Bookmarks & History",
+      "shortcut": "⌥⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘B"
+        }
+      ],
+      "title": "Open Bookmarks Manager"
+    },
+    {
+      "keyCode": 16,
+      "modifiers": 1048576,
+      "sectionName": "Bookmarks & History",
+      "shortcut": "⌘Y",
+      "shortcuts": [
+        {
+          "keyCode": 16,
+          "modifiers": 1048576,
+          "shortcut": "⌘Y"
+        }
+      ],
+      "title": "Open History"
+    },
+    {
+      "keyCode": 38,
+      "modifiers": 1179648,
+      "sectionName": "Bookmarks & History",
+      "shortcut": "⇧⌘J",
+      "shortcuts": [
+        {
+          "keyCode": 38,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘J"
+        }
+      ],
+      "title": "Open Downloads"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 1179648,
+      "sectionName": "Bookmarks & History",
+      "shortcut": "⇧⌘⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘⌫"
+        }
+      ],
+      "title": "Clear Browsing Data"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 1572864,
+      "sectionName": "DevTools",
+      "shortcut": "⌥⌘I",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘I"
+        }
+      ],
+      "title": "Open / Close DevTools"
+    },
+    {
+      "keyCode": 38,
+      "modifiers": 1572864,
+      "sectionName": "DevTools",
+      "shortcut": "⌥⌘J",
+      "shortcuts": [
+        {
+          "keyCode": 38,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘J"
+        }
+      ],
+      "title": "Open Console"
+    },
+    {
+      "keyCode": 8,
+      "modifiers": 1179648,
+      "sectionName": "DevTools",
+      "shortcut": "⇧⌘C",
+      "shortcuts": [
+        {
+          "keyCode": 8,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘C"
+        }
+      ],
+      "title": "Inspect Element"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 1179648,
+      "sectionName": "DevTools",
+      "shortcut": "⇧⌘P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘P"
+        }
+      ],
+      "title": "DevTools Command Menu"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Tabs",
+    "Windows",
+    "Navigation",
+    "Address Bar & Search",
+    "Page",
+    "View",
+    "Bookmarks & History",
+    "DevTools"
+  ]
+}

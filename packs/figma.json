@@ -1,0 +1,525 @@
+{
+  "app": {
+    "bundleIdentifier": "com.figma.Desktop",
+    "name": "Figma"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 9,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "V",
+      "shortcuts": [
+        {
+          "keyCode": 9,
+          "modifiers": 0,
+          "shortcut": "V"
+        }
+      ],
+      "title": "Move Tool"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 0,
+          "shortcut": "F"
+        }
+      ],
+      "title": "Frame Tool"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 0,
+          "shortcut": "R"
+        }
+      ],
+      "title": "Rectangle Tool"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 0,
+          "shortcut": "O"
+        }
+      ],
+      "title": "Ellipse Tool"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 0,
+          "shortcut": "L"
+        }
+      ],
+      "title": "Line Tool"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 0,
+          "shortcut": "T"
+        }
+      ],
+      "title": "Text Tool"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 0,
+          "shortcut": "P"
+        }
+      ],
+      "title": "Pen Tool"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 0,
+          "shortcut": "K"
+        }
+      ],
+      "title": "Scale Tool"
+    },
+    {
+      "keyCode": 8,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "C",
+      "shortcuts": [
+        {
+          "keyCode": 8,
+          "modifiers": 0,
+          "shortcut": "C"
+        }
+      ],
+      "title": "Add Comment"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 0,
+      "sectionName": "Selection",
+      "shortcut": "↩ / ⇧↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 0,
+          "shortcut": "↩"
+        },
+        {
+          "keyCode": 36,
+          "modifiers": 131072,
+          "shortcut": "⇧↩"
+        }
+      ],
+      "title": "Select Child / Parent"
+    },
+    {
+      "keyCode": 48,
+      "modifiers": 0,
+      "sectionName": "Selection",
+      "shortcut": "⇥ / ⇧⇥",
+      "shortcuts": [
+        {
+          "keyCode": 48,
+          "modifiers": 0,
+          "shortcut": "⇥"
+        },
+        {
+          "keyCode": 48,
+          "modifiers": 131072,
+          "shortcut": "⇧⇥"
+        }
+      ],
+      "title": "Select Next / Previous Sibling"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        }
+      ],
+      "title": "Duplicate in Place"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘R"
+        }
+      ],
+      "title": "Paste to Replace"
+    },
+    {
+      "keyCode": 8,
+      "modifiers": 1572864,
+      "sectionName": "Editing",
+      "shortcut": "⌥⌘C / ⌥⌘V",
+      "shortcuts": [
+        {
+          "keyCode": 8,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘C"
+        },
+        {
+          "keyCode": 9,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘V"
+        }
+      ],
+      "title": "Copy / Paste Properties"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1048576,
+          "shortcut": "⌘R"
+        }
+      ],
+      "title": "Rename Selection"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘E"
+        }
+      ],
+      "title": "Export"
+    },
+    {
+      "keyCode": 46,
+      "modifiers": 1572864,
+      "sectionName": "Editing",
+      "shortcut": "⌥⌘M",
+      "shortcuts": [
+        {
+          "keyCode": 46,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘M"
+        }
+      ],
+      "title": "Mask / Unmask Selection"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘O"
+        }
+      ],
+      "title": "Outline Stroke"
+    },
+    {
+      "keyCode": 7,
+      "modifiers": 131072,
+      "sectionName": "Editing",
+      "shortcut": "⇧X",
+      "shortcuts": [
+        {
+          "keyCode": 7,
+          "modifiers": 131072,
+          "shortcut": "⇧X"
+        }
+      ],
+      "title": "Swap Fill and Stroke"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1048576,
+      "sectionName": "Arrange & Layers",
+      "shortcut": "⌘G / ⇧⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1048576,
+          "shortcut": "⌘G"
+        },
+        {
+          "keyCode": 5,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘G"
+        }
+      ],
+      "title": "Group / Ungroup Selection"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1572864,
+      "sectionName": "Arrange & Layers",
+      "shortcut": "⌥⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘G"
+        }
+      ],
+      "title": "Frame Selection"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1572864,
+      "sectionName": "Arrange & Layers",
+      "shortcut": "⌥⌘] / ⌥⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘["
+        }
+      ],
+      "title": "Bring to Front / Send to Back"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 786432,
+      "sectionName": "Arrange & Layers",
+      "shortcut": "⌃⌥T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 786432,
+          "shortcut": "⌃⌥T"
+        }
+      ],
+      "title": "Tidy Up Selection"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1179648,
+      "sectionName": "Arrange & Layers",
+      "shortcut": "⇧⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘L"
+        }
+      ],
+      "title": "Lock / Unlock Selection"
+    },
+    {
+      "keyCode": 18,
+      "modifiers": 131072,
+      "sectionName": "View & Zoom",
+      "shortcut": "⇧1",
+      "shortcuts": [
+        {
+          "keyCode": 18,
+          "modifiers": 131072,
+          "shortcut": "⇧1"
+        }
+      ],
+      "title": "Zoom to Fit"
+    },
+    {
+      "keyCode": 19,
+      "modifiers": 131072,
+      "sectionName": "View & Zoom",
+      "shortcut": "⇧2",
+      "shortcuts": [
+        {
+          "keyCode": 19,
+          "modifiers": 131072,
+          "shortcut": "⇧2"
+        }
+      ],
+      "title": "Zoom to Selection"
+    },
+    {
+      "keyCode": 42,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘\\",
+      "shortcuts": [
+        {
+          "keyCode": 42,
+          "modifiers": 1048576,
+          "shortcut": "⌘\\"
+        }
+      ],
+      "title": "Show / Hide UI"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 262144,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌃G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 262144,
+          "shortcut": "⌃G"
+        }
+      ],
+      "title": "Show / Hide Layout Grids"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 262144,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌃P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 262144,
+          "shortcut": "⌃P"
+        }
+      ],
+      "title": "Toggle Pixel Preview"
+    },
+    {
+      "keyCode": 44,
+      "modifiers": 1048576,
+      "sectionName": "Panels",
+      "shortcut": "⌘/",
+      "shortcuts": [
+        {
+          "keyCode": 44,
+          "modifiers": 1048576,
+          "shortcut": "⌘/"
+        }
+      ],
+      "title": "Quick Actions"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 1572864,
+      "sectionName": "Components",
+      "shortcut": "⌥⌘K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘K"
+        }
+      ],
+      "title": "Create Component"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1572864,
+      "sectionName": "Components",
+      "shortcut": "⌥⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘B"
+        }
+      ],
+      "title": "Detach Instance"
+    },
+    {
+      "keyCode": 0,
+      "modifiers": 131072,
+      "sectionName": "Auto Layout",
+      "shortcut": "⇧A / ⌥⇧A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 131072,
+          "shortcut": "⇧A"
+        },
+        {
+          "keyCode": 0,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧A"
+        }
+      ],
+      "title": "Add / Remove Auto Layout"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1703936,
+      "sectionName": "Auto Layout",
+      "shortcut": "⌥⇧⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1703936,
+          "shortcut": "⌥⇧⌘R"
+        }
+      ],
+      "title": "Resize to Fit Content"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Tools",
+    "Selection",
+    "Editing",
+    "Arrange & Layers",
+    "View & Zoom",
+    "Panels",
+    "Components",
+    "Auto Layout"
+  ]
+}

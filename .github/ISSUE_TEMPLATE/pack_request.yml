@@ -1,0 +1,30 @@
+name: Pack request
+description: Request a new or updated Keyflow hotkey pack.
+title: "Pack request: "
+labels:
+  - pack-request
+body:
+  - type: input
+    id: app-name
+    attributes:
+      label: App name
+      placeholder: Cursor
+    validations:
+      required: true
+  - type: input
+    id: bundle-identifier
+    attributes:
+      label: Bundle identifier
+      description: You can find this in Keyflow or from the app bundle if you know it.
+      placeholder: com.example.App
+  - type: textarea
+    id: source
+    attributes:
+      label: Shortcut source
+      description: Link to official docs, a screenshot, or notes about where these shortcuts come from.
+      placeholder: https://example.com/shortcuts
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Mention platform, keymap, app version, or anything that affects the shortcuts.

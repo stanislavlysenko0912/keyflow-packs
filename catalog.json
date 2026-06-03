@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "com.adobe.Photoshop",
+      "version": 1,
+      "title": "Adobe Photoshop 2025",
+      "summary": "Starter shortcuts for Adobe Photoshop 2025.",
+      "category": "creative",
+      "app": {
+        "name": "Adobe Photoshop 2025",
+        "bundleIdentifier": "com.adobe.Photoshop"
+      },
+      "path": "packs/adobe-photoshop-2025.json"
+    },
+    {
+      "id": "com.google.android.studio",
+      "version": 1,
+      "title": "Android Studio",
+      "summary": "Starter shortcuts for Android Studio.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "Android Studio",
+        "bundleIdentifier": "com.google.android.studio"
+      },
+      "path": "packs/android-studio.json"
+    },
+    {
+      "id": "com.google.antigravity-ide",
+      "version": 1,
+      "title": "Antigravity IDE",
+      "summary": "Starter shortcuts for Antigravity IDE.",
+      "category": "code-editor",
+      "app": {
+        "name": "Antigravity IDE",
+        "bundleIdentifier": "com.google.antigravity-ide"
+      },
+      "path": "packs/antigravity-ide.json"
+    },
+    {
+      "id": "com.microsoft.VSCode",
+      "version": 1,
+      "title": "Code",
+      "summary": "Starter shortcuts for Code.",
+      "category": "code-editor",
+      "app": {
+        "name": "Code",
+        "bundleIdentifier": "com.microsoft.VSCode"
+      },
+      "path": "packs/code.json"
+    },
+    {
+      "id": "com.todesktop.230313mzl4w4u92",
+      "version": 1,
+      "title": "Cursor",
+      "summary": "Starter shortcuts for Cursor.",
+      "category": "code-editor",
+      "app": {
+        "name": "Cursor",
+        "bundleIdentifier": "com.todesktop.230313mzl4w4u92"
+      },
+      "path": "packs/cursor.json"
+    },
+    {
+      "id": "company.thebrowser.dia",
+      "version": 1,
+      "title": "Dia",
+      "summary": "Starter shortcuts for Dia.",
+      "category": "browser",
+      "app": {
+        "name": "Dia",
+        "bundleIdentifier": "company.thebrowser.dia"
+      },
+      "path": "packs/dia.json"
+    },
+    {
+      "id": "com.figma.Desktop",
+      "version": 1,
+      "title": "Figma",
+      "summary": "Starter shortcuts for Figma.",
+      "category": "design",
+      "app": {
+        "name": "Figma",
+        "bundleIdentifier": "com.figma.Desktop"
+      },
+      "path": "packs/figma.json"
+    },
+    {
+      "id": "com.jetbrains.goland",
+      "version": 1,
+      "title": "GoLand",
+      "summary": "Starter shortcuts for GoLand.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "GoLand",
+        "bundleIdentifier": "com.jetbrains.goland"
+      },
+      "path": "packs/goland.json"
+    },
+    {
+      "id": "com.google.Chrome",
+      "version": 1,
+      "title": "Google Chrome",
+      "summary": "Starter shortcuts for Google Chrome.",
+      "category": "browser",
+      "app": {
+        "name": "Google Chrome",
+        "bundleIdentifier": "com.google.Chrome"
+      },
+      "path": "packs/google-chrome.json"
+    },
+    {
+      "id": "com.jetbrains.intellij",
+      "version": 1,
+      "title": "IntelliJ IDEA",
+      "summary": "Starter shortcuts for IntelliJ IDEA.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "IntelliJ IDEA",
+        "bundleIdentifier": "com.jetbrains.intellij"
+      },
+      "path": "packs/intellij-idea.json"
+    },
+    {
+      "id": "dev.kiro.desktop",
+      "version": 1,
+      "title": "Kiro",
+      "summary": "Starter shortcuts for Kiro.",
+      "category": "code-editor",
+      "app": {
+        "name": "Kiro",
+        "bundleIdentifier": "dev.kiro.desktop"
+      },
+      "path": "packs/kiro.json"
+    },
+    {
+      "id": "md.obsidian",
+      "version": 1,
+      "title": "Obsidian",
+      "summary": "Starter shortcuts for Obsidian.",
+      "category": "notes",
+      "app": {
+        "name": "Obsidian",
+        "bundleIdentifier": "md.obsidian"
+      },
+      "path": "packs/obsidian.json"
+    },
+    {
+      "id": "com.jetbrains.PhpStorm",
+      "version": 1,
+      "title": "PhpStorm",
+      "summary": "Starter shortcuts for PhpStorm.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "PhpStorm",
+        "bundleIdentifier": "com.jetbrains.PhpStorm"
+      },
+      "path": "packs/phpstorm.json"
+    },
+    {
+      "id": "com.jetbrains.pycharm",
+      "version": 1,
+      "title": "PyCharm",
+      "summary": "Starter shortcuts for PyCharm.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "PyCharm",
+        "bundleIdentifier": "com.jetbrains.pycharm"
+      },
+      "path": "packs/pycharm.json"
+    },
+    {
+      "id": "com.jetbrains.WebStorm",
+      "version": 1,
+      "title": "WebStorm",
+      "summary": "Starter shortcuts for WebStorm.",
+      "category": "jetbrains-ide",
+      "app": {
+        "name": "WebStorm",
+        "bundleIdentifier": "com.jetbrains.WebStorm"
+      },
+      "path": "packs/webstorm.json"
+    },
+    {
+      "id": "com.exafunction.windsurf",
+      "version": 1,
+      "title": "Windsurf",
+      "summary": "Starter shortcuts for Windsurf.",
+      "category": "code-editor",
+      "app": {
+        "name": "Windsurf",
+        "bundleIdentifier": "com.exafunction.windsurf"
+      },
+      "path": "packs/windsurf.json"
+    }
+  ]
+}

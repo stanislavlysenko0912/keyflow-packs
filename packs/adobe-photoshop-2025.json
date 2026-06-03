@@ -1,0 +1,784 @@
+{
+  "app": {
+    "bundleIdentifier": "com.adobe.Photoshop",
+    "name": "Adobe Photoshop 2025"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 9,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "V",
+      "shortcuts": [
+        {
+          "keyCode": 9,
+          "modifiers": 0,
+          "shortcut": "V"
+        }
+      ],
+      "title": "Move Tool"
+    },
+    {
+      "keyCode": 46,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "M",
+      "shortcuts": [
+        {
+          "keyCode": 46,
+          "modifiers": 0,
+          "shortcut": "M"
+        }
+      ],
+      "title": "Marquee Tool"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 0,
+          "shortcut": "L"
+        }
+      ],
+      "title": "Lasso Tool"
+    },
+    {
+      "keyCode": 13,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "W",
+      "shortcuts": [
+        {
+          "keyCode": 13,
+          "modifiers": 0,
+          "shortcut": "W"
+        }
+      ],
+      "title": "Quick Selection / Magic Wand"
+    },
+    {
+      "keyCode": 8,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "C",
+      "shortcuts": [
+        {
+          "keyCode": 8,
+          "modifiers": 0,
+          "shortcut": "C"
+        }
+      ],
+      "title": "Crop Tool"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "I",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 0,
+          "shortcut": "I"
+        }
+      ],
+      "title": "Eyedropper Tool"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 0,
+          "shortcut": "B"
+        }
+      ],
+      "title": "Brush Tool"
+    },
+    {
+      "keyCode": 1,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "S",
+      "shortcuts": [
+        {
+          "keyCode": 1,
+          "modifiers": 0,
+          "shortcut": "S"
+        }
+      ],
+      "title": "Clone Stamp Tool"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 0,
+          "shortcut": "E"
+        }
+      ],
+      "title": "Eraser Tool"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 0,
+          "shortcut": "G"
+        }
+      ],
+      "title": "Gradient / Paint Bucket Tool"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 0,
+          "shortcut": "P"
+        }
+      ],
+      "title": "Pen Tool"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 0,
+          "shortcut": "T"
+        }
+      ],
+      "title": "Type Tool"
+    },
+    {
+      "keyCode": 38,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "J",
+      "shortcuts": [
+        {
+          "keyCode": 38,
+          "modifiers": 0,
+          "shortcut": "J"
+        }
+      ],
+      "title": "Spot Healing / Healing Brush"
+    },
+    {
+      "keyCode": 6,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "Z",
+      "shortcuts": [
+        {
+          "keyCode": 6,
+          "modifiers": 0,
+          "shortcut": "Z"
+        }
+      ],
+      "title": "Zoom Tool"
+    },
+    {
+      "keyCode": 49,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "Space",
+      "shortcuts": [
+        {
+          "keyCode": 49,
+          "modifiers": 0,
+          "shortcut": "Space"
+        }
+      ],
+      "title": "Temporary Hand Tool"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 0,
+      "sectionName": "Tools",
+      "shortcut": "D / X",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 0,
+          "shortcut": "D"
+        },
+        {
+          "keyCode": 7,
+          "modifiers": 0,
+          "shortcut": "X"
+        }
+      ],
+      "title": "Default / Swap Foreground & Background Colors"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Selection",
+      "shortcut": "⌘D / ⇧⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        },
+        {
+          "keyCode": 2,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘D"
+        }
+      ],
+      "title": "Deselect / Reselect"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 1179648,
+      "sectionName": "Selection",
+      "shortcut": "⇧⌘I",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘I"
+        }
+      ],
+      "title": "Inverse Selection"
+    },
+    {
+      "keyCode": 0,
+      "modifiers": 1572864,
+      "sectionName": "Selection",
+      "shortcut": "⌥⌘A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘A"
+        }
+      ],
+      "title": "Select All Layers"
+    },
+    {
+      "keyCode": 97,
+      "modifiers": 131072,
+      "sectionName": "Selection",
+      "shortcut": "⇧F6",
+      "shortcuts": [
+        {
+          "keyCode": 97,
+          "modifiers": 131072,
+          "shortcut": "⇧F6"
+        }
+      ],
+      "title": "Feather Selection"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1572864,
+      "sectionName": "Selection",
+      "shortcut": "⌥⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘R"
+        }
+      ],
+      "title": "Select & Mask (Refine Edge)"
+    },
+    {
+      "keyCode": 38,
+      "modifiers": 1048576,
+      "sectionName": "Layers",
+      "shortcut": "⌘J / ⇧⌘J",
+      "shortcuts": [
+        {
+          "keyCode": 38,
+          "modifiers": 1048576,
+          "shortcut": "⌘J"
+        },
+        {
+          "keyCode": 38,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘J"
+        }
+      ],
+      "title": "New Layer via Copy / Cut"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1048576,
+      "sectionName": "Layers",
+      "shortcut": "⌘G / ⇧⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1048576,
+          "shortcut": "⌘G"
+        },
+        {
+          "keyCode": 5,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘G"
+        }
+      ],
+      "title": "Group / Ungroup Layers"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1572864,
+      "sectionName": "Layers",
+      "shortcut": "⌥⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘G"
+        }
+      ],
+      "title": "Create / Release Clipping Mask"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 1179648,
+      "sectionName": "Layers",
+      "shortcut": "⇧⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘E"
+        }
+      ],
+      "title": "Merge Visible"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 1703936,
+      "sectionName": "Layers",
+      "shortcut": "⌥⇧⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1703936,
+          "shortcut": "⌥⇧⌘E"
+        }
+      ],
+      "title": "Stamp Visible to New Layer"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1048576,
+      "sectionName": "Layers",
+      "shortcut": "⌘] / ⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1048576,
+          "shortcut": "⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1048576,
+          "shortcut": "⌘["
+        }
+      ],
+      "title": "Bring Forward / Send Backward"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1179648,
+      "sectionName": "Layers",
+      "shortcut": "⇧⌘] / ⇧⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘["
+        }
+      ],
+      "title": "Bring to Front / Send to Back"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1048576,
+      "sectionName": "Adjustments",
+      "shortcut": "⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1048576,
+          "shortcut": "⌘L"
+        }
+      ],
+      "title": "Levels"
+    },
+    {
+      "keyCode": 46,
+      "modifiers": 1048576,
+      "sectionName": "Adjustments",
+      "shortcut": "⌘M",
+      "shortcuts": [
+        {
+          "keyCode": 46,
+          "modifiers": 1048576,
+          "shortcut": "⌘M"
+        }
+      ],
+      "title": "Curves"
+    },
+    {
+      "keyCode": 32,
+      "modifiers": 1048576,
+      "sectionName": "Adjustments",
+      "shortcut": "⌘U",
+      "shortcuts": [
+        {
+          "keyCode": 32,
+          "modifiers": 1048576,
+          "shortcut": "⌘U"
+        }
+      ],
+      "title": "Hue / Saturation"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1048576,
+      "sectionName": "Adjustments",
+      "shortcut": "⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1048576,
+          "shortcut": "⌘B"
+        }
+      ],
+      "title": "Color Balance"
+    },
+    {
+      "keyCode": 32,
+      "modifiers": 1179648,
+      "sectionName": "Adjustments",
+      "shortcut": "⇧⌘U",
+      "shortcuts": [
+        {
+          "keyCode": 32,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘U"
+        }
+      ],
+      "title": "Desaturate"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 1048576,
+      "sectionName": "Adjustments",
+      "shortcut": "⌘I",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 1048576,
+          "shortcut": "⌘I"
+        }
+      ],
+      "title": "Invert Colors"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1048576,
+      "sectionName": "Transform & Editing",
+      "shortcut": "⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1048576,
+          "shortcut": "⌘T"
+        }
+      ],
+      "title": "Free Transform"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1179648,
+      "sectionName": "Transform & Editing",
+      "shortcut": "⇧⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘T"
+        }
+      ],
+      "title": "Repeat Last Transform"
+    },
+    {
+      "keyCode": 6,
+      "modifiers": 1572864,
+      "sectionName": "Transform & Editing",
+      "shortcut": "⌥⌘Z / ⇧⌘Z",
+      "shortcuts": [
+        {
+          "keyCode": 6,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘Z"
+        },
+        {
+          "keyCode": 6,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘Z"
+        }
+      ],
+      "title": "Step Backward / Forward in History"
+    },
+    {
+      "keyCode": 96,
+      "modifiers": 131072,
+      "sectionName": "Transform & Editing",
+      "shortcut": "⇧F5",
+      "shortcuts": [
+        {
+          "keyCode": 96,
+          "modifiers": 131072,
+          "shortcut": "⇧F5"
+        }
+      ],
+      "title": "Content-Aware Fill Dialog"
+    },
+    {
+      "keyCode": 29,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘0",
+      "shortcuts": [
+        {
+          "keyCode": 29,
+          "modifiers": 1048576,
+          "shortcut": "⌘0"
+        }
+      ],
+      "title": "Fit on Screen"
+    },
+    {
+      "keyCode": 18,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘1",
+      "shortcuts": [
+        {
+          "keyCode": 18,
+          "modifiers": 1048576,
+          "shortcut": "⌘1"
+        }
+      ],
+      "title": "100% Actual Pixels"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘= / ⌘-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 1048576,
+          "shortcut": "⌘="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 1048576,
+          "shortcut": "⌘-"
+        }
+      ],
+      "title": "Zoom In / Out"
+    },
+    {
+      "keyCode": 48,
+      "modifiers": 0,
+      "sectionName": "View & Zoom",
+      "shortcut": "⇥ / ⇧⇥",
+      "shortcuts": [
+        {
+          "keyCode": 48,
+          "modifiers": 0,
+          "shortcut": "⇥"
+        },
+        {
+          "keyCode": 48,
+          "modifiers": 131072,
+          "shortcut": "⇧⇥"
+        }
+      ],
+      "title": "Toggle All Panels / Panels Except Tools"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 0,
+      "sectionName": "View & Zoom",
+      "shortcut": "F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 0,
+          "shortcut": "F"
+        }
+      ],
+      "title": "Cycle Screen Mode"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1048576,
+          "shortcut": "⌘R"
+        }
+      ],
+      "title": "Show / Hide Rulers"
+    },
+    {
+      "keyCode": 4,
+      "modifiers": 1048576,
+      "sectionName": "View & Zoom",
+      "shortcut": "⌘H",
+      "shortcuts": [
+        {
+          "keyCode": 4,
+          "modifiers": 1048576,
+          "shortcut": "⌘H"
+        }
+      ],
+      "title": "Show / Hide Extras (Guides, Grid, Selection Edges)"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 0,
+      "sectionName": "Brush",
+      "shortcut": "] / [",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 0,
+          "shortcut": "]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 0,
+          "shortcut": "["
+        }
+      ],
+      "title": "Increase / Decrease Brush Size"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 131072,
+      "sectionName": "Brush",
+      "shortcut": "⇧] / ⇧[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 131072,
+          "shortcut": "⇧]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 131072,
+          "shortcut": "⇧["
+        }
+      ],
+      "title": "Increase / Decrease Brush Hardness"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 524288,
+      "sectionName": "Painting & Fill",
+      "shortcut": "⌥⌫ / ⌘⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 524288,
+          "shortcut": "⌥⌫"
+        },
+        {
+          "keyCode": 51,
+          "modifiers": 1048576,
+          "shortcut": "⌘⌫"
+        }
+      ],
+      "title": "Fill with Foreground / Background Color"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 131072,
+      "sectionName": "Painting & Fill",
+      "shortcut": "⇧⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 131072,
+          "shortcut": "⇧⌫"
+        }
+      ],
+      "title": "Fill Dialog"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 131072,
+      "sectionName": "Painting & Fill",
+      "shortcut": "⇧= / ⇧-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 131072,
+          "shortcut": "⇧="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 131072,
+          "shortcut": "⇧-"
+        }
+      ],
+      "title": "Cycle Blend Modes Forward / Backward"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Tools",
+    "Selection",
+    "Layers",
+    "Adjustments",
+    "Transform & Editing",
+    "View & Zoom",
+    "Brush",
+    "Painting & Fill"
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "app": {
+    "bundleIdentifier": "com.jetbrains.PhpStorm",
+    "name": "PhpStorm"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 0,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘A",
+      "shortcuts": [
+        {
+          "keyCode": 0,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘A"
+        }
+      ],
+      "title": "Find Action"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘O"
+        }
+      ],
+      "title": "Go to File"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1048576,
+          "shortcut": "⌘O"
+        }
+      ],
+      "title": "Go to Class"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 1572864,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌥⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘O"
+        }
+      ],
+      "title": "Go to Symbol"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘E / ⇧⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1048576,
+          "shortcut": "⌘E"
+        },
+        {
+          "keyCode": 14,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘E"
+        }
+      ],
+      "title": "Recent Files / Recent Locations"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘⌫"
+        }
+      ],
+      "title": "Last Edit Location"
+    },
+    {
+      "keyCode": 33,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘[ / ⌘]",
+      "shortcuts": [
+        {
+          "keyCode": 33,
+          "modifiers": 1048576,
+          "shortcut": "⌘["
+        },
+        {
+          "keyCode": 30,
+          "modifiers": 1048576,
+          "shortcut": "⌘]"
+        }
+      ],
+      "title": "Navigate Back / Forward"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1048576,
+          "shortcut": "⌘B"
+        }
+      ],
+      "title": "Go to Declaration or Usages"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1572864,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌥⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘B"
+        }
+      ],
+      "title": "Go to Implementation"
+    },
+    {
+      "keyCode": 111,
+      "modifiers": 1048576,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌘F12",
+      "shortcuts": [
+        {
+          "keyCode": 111,
+          "modifiers": 1048576,
+          "shortcut": "⌘F12"
+        }
+      ],
+      "title": "File Structure Popup"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1179648,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⇧⌘F / ⇧⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘F"
+        },
+        {
+          "keyCode": 15,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘R"
+        }
+      ],
+      "title": "Find in Path / Replace in Path"
+    },
+    {
+      "keyCode": 98,
+      "modifiers": 524288,
+      "sectionName": "Navigation & Search",
+      "shortcut": "⌥F7",
+      "shortcuts": [
+        {
+          "keyCode": 98,
+          "modifiers": 524288,
+          "shortcut": "⌥F7"
+        }
+      ],
+      "title": "Find Usages"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 524288,
+      "sectionName": "Editing",
+      "shortcut": "⌥↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 524288,
+          "shortcut": "⌥↩"
+        }
+      ],
+      "title": "Show Context Actions / Quick Fix"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘↩"
+        }
+      ],
+      "title": "Complete Statement"
+    },
+    {
+      "keyCode": 122,
+      "modifiers": 0,
+      "sectionName": "Editing",
+      "shortcut": "F1",
+      "shortcuts": [
+        {
+          "keyCode": 122,
+          "modifiers": 0,
+          "shortcut": "F1"
+        }
+      ],
+      "title": "Quick Documentation"
+    },
+    {
+      "keyCode": 126,
+      "modifiers": 524288,
+      "sectionName": "Editing",
+      "shortcut": "⌥↑ / ⌥↓",
+      "shortcuts": [
+        {
+          "keyCode": 126,
+          "modifiers": 524288,
+          "shortcut": "⌥↑"
+        },
+        {
+          "keyCode": 125,
+          "modifiers": 524288,
+          "shortcut": "⌥↓"
+        }
+      ],
+      "title": "Extend / Shrink Selection"
+    },
+    {
+      "keyCode": 126,
+      "modifiers": 655360,
+      "sectionName": "Editing",
+      "shortcut": "⌥⇧↑ / ⌥⇧↓",
+      "shortcuts": [
+        {
+          "keyCode": 126,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧↑"
+        },
+        {
+          "keyCode": 125,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧↓"
+        }
+      ],
+      "title": "Move Line Up / Down"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1048576,
+          "shortcut": "⌘D"
+        }
+      ],
+      "title": "Duplicate Line or Selection"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 1048576,
+          "shortcut": "⌘⌫"
+        }
+      ],
+      "title": "Delete Line"
+    },
+    {
+      "keyCode": 44,
+      "modifiers": 1048576,
+      "sectionName": "Editing",
+      "shortcut": "⌘/",
+      "shortcuts": [
+        {
+          "keyCode": 44,
+          "modifiers": 1048576,
+          "shortcut": "⌘/"
+        }
+      ],
+      "title": "Toggle Line Comment"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1572864,
+      "sectionName": "Editing",
+      "shortcut": "⌥⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘L"
+        }
+      ],
+      "title": "Reformat Code"
+    },
+    {
+      "keyCode": 31,
+      "modifiers": 786432,
+      "sectionName": "Editing",
+      "shortcut": "⌃⌥O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 786432,
+          "shortcut": "⌃⌥O"
+        }
+      ],
+      "title": "Optimize Imports"
+    },
+    {
+      "keyCode": 9,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘V",
+      "shortcuts": [
+        {
+          "keyCode": 9,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘V"
+        }
+      ],
+      "title": "Paste from History"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 262144,
+      "sectionName": "Refactoring",
+      "shortcut": "⌃T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 262144,
+          "shortcut": "⌃T"
+        }
+      ],
+      "title": "Refactor This"
+    },
+    {
+      "keyCode": 97,
+      "modifiers": 131072,
+      "sectionName": "Refactoring",
+      "shortcut": "⇧F6",
+      "shortcuts": [
+        {
+          "keyCode": 97,
+          "modifiers": 131072,
+          "shortcut": "⇧F6"
+        }
+      ],
+      "title": "Rename"
+    },
+    {
+      "keyCode": 46,
+      "modifiers": 1572864,
+      "sectionName": "Refactoring",
+      "shortcut": "⌥⌘M / ⌥⌘V",
+      "shortcuts": [
+        {
+          "keyCode": 46,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘M"
+        },
+        {
+          "keyCode": 9,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘V"
+        }
+      ],
+      "title": "Extract Method / Variable"
+    },
+    {
+      "keyCode": 45,
+      "modifiers": 1048576,
+      "sectionName": "Code Generation",
+      "shortcut": "⌘N",
+      "shortcuts": [
+        {
+          "keyCode": 45,
+          "modifiers": 1048576,
+          "shortcut": "⌘N"
+        }
+      ],
+      "title": "Generate"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1572864,
+      "sectionName": "Code Generation",
+      "shortcut": "⌥⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘T"
+        }
+      ],
+      "title": "Surround With"
+    },
+    {
+      "keyCode": 38,
+      "modifiers": 1048576,
+      "sectionName": "Code Generation",
+      "shortcut": "⌘J",
+      "shortcuts": [
+        {
+          "keyCode": 38,
+          "modifiers": 1048576,
+          "shortcut": "⌘J"
+        }
+      ],
+      "title": "Insert Live Template"
+    },
+    {
+      "keyCode": 100,
+      "modifiers": 1048576,
+      "sectionName": "Run & Debug",
+      "shortcut": "⌘F8",
+      "shortcuts": [
+        {
+          "keyCode": 100,
+          "modifiers": 1048576,
+          "shortcut": "⌘F8"
+        }
+      ],
+      "title": "Toggle Breakpoint"
+    },
+    {
+      "keyCode": 100,
+      "modifiers": 0,
+      "sectionName": "Run & Debug",
+      "shortcut": "F8 / F7",
+      "shortcuts": [
+        {
+          "keyCode": 100,
+          "modifiers": 0,
+          "shortcut": "F8"
+        },
+        {
+          "keyCode": 98,
+          "modifiers": 0,
+          "shortcut": "F7"
+        }
+      ],
+      "title": "Step Over / Into"
+    },
+    {
+      "keyCode": 15,
+      "modifiers": 1572864,
+      "sectionName": "Run & Debug",
+      "shortcut": "⌥⌘R",
+      "shortcuts": [
+        {
+          "keyCode": 15,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘R"
+        }
+      ],
+      "title": "Resume Program"
+    },
+    {
+      "keyCode": 9,
+      "modifiers": 262144,
+      "sectionName": "VCS",
+      "shortcut": "⌃V",
+      "shortcuts": [
+        {
+          "keyCode": 9,
+          "modifiers": 262144,
+          "shortcut": "⌃V"
+        }
+      ],
+      "title": "VCS Operations Popup"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 1048576,
+      "sectionName": "VCS",
+      "shortcut": "⌘K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 1048576,
+          "shortcut": "⌘K"
+        }
+      ],
+      "title": "Commit"
+    },
+    {
+      "keyCode": 18,
+      "modifiers": 1048576,
+      "sectionName": "Tool Windows",
+      "shortcut": "⌘1",
+      "shortcuts": [
+        {
+          "keyCode": 18,
+          "modifiers": 1048576,
+          "shortcut": "⌘1"
+        }
+      ],
+      "title": "Project Tool Window"
+    },
+    {
+      "keyCode": 111,
+      "modifiers": 524288,
+      "sectionName": "Tool Windows",
+      "shortcut": "⌥F12",
+      "shortcuts": [
+        {
+          "keyCode": 111,
+          "modifiers": 524288,
+          "shortcut": "⌥F12"
+        }
+      ],
+      "title": "Terminal Tool Window"
+    },
+    {
+      "keyCode": 111,
+      "modifiers": 1179648,
+      "sectionName": "Tool Windows",
+      "shortcut": "⇧⌘F12",
+      "shortcuts": [
+        {
+          "keyCode": 111,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘F12"
+        }
+      ],
+      "title": "Hide All Tool Windows"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 262144,
+      "sectionName": "Multi-Cursor & Selection",
+      "shortcut": "⌃G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 262144,
+          "shortcut": "⌃G"
+        }
+      ],
+      "title": "Add Selection for Next Occurrence"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1310720,
+      "sectionName": "Multi-Cursor & Selection",
+      "shortcut": "⌃⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1310720,
+          "shortcut": "⌃⌘G"
+        }
+      ],
+      "title": "Select All Occurrences"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 655360,
+      "sectionName": "Multi-Cursor & Selection",
+      "shortcut": "⌥⇧G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 655360,
+          "shortcut": "⌥⇧G"
+        }
+      ],
+      "title": "Add Caret to Each Line in Selection"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Navigation & Search",
+    "Editing",
+    "Refactoring",
+    "Code Generation",
+    "Run & Debug",
+    "VCS",
+    "Tool Windows",
+    "Multi-Cursor & Selection"
+  ]
+}

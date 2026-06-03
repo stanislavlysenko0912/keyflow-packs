@@ -1,0 +1,487 @@
+{
+  "app": {
+    "bundleIdentifier": "md.obsidian",
+    "name": "Obsidian"
+  },
+  "hotkeys": [
+    {
+      "keyCode": 31,
+      "modifiers": 1048576,
+      "sectionName": "Search & Command Palette",
+      "shortcut": "⌘O",
+      "shortcuts": [
+        {
+          "keyCode": 31,
+          "modifiers": 1048576,
+          "shortcut": "⌘O"
+        }
+      ],
+      "title": "Open Quick Switcher"
+    },
+    {
+      "keyCode": 35,
+      "modifiers": 1048576,
+      "sectionName": "Search & Command Palette",
+      "shortcut": "⌘P",
+      "shortcuts": [
+        {
+          "keyCode": 35,
+          "modifiers": 1048576,
+          "shortcut": "⌘P"
+        }
+      ],
+      "title": "Open Command Palette"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1179648,
+      "sectionName": "Search & Command Palette",
+      "shortcut": "⇧⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘F"
+        }
+      ],
+      "title": "Search in All Files"
+    },
+    {
+      "keyCode": 3,
+      "modifiers": 1048576,
+      "sectionName": "Search & Command Palette",
+      "shortcut": "⌘F",
+      "shortcuts": [
+        {
+          "keyCode": 3,
+          "modifiers": 1048576,
+          "shortcut": "⌘F"
+        }
+      ],
+      "title": "Search in Current File"
+    },
+    {
+      "keyCode": 4,
+      "modifiers": 1048576,
+      "sectionName": "Search & Command Palette",
+      "shortcut": "⌘H",
+      "shortcuts": [
+        {
+          "keyCode": 4,
+          "modifiers": 1048576,
+          "shortcut": "⌘H"
+        }
+      ],
+      "title": "Find and Replace in Current File"
+    },
+    {
+      "keyCode": 123,
+      "modifiers": 1572864,
+      "sectionName": "Navigation",
+      "shortcut": "⌥⌘← / ⌥⌘→",
+      "shortcuts": [
+        {
+          "keyCode": 123,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘←"
+        },
+        {
+          "keyCode": 124,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘→"
+        }
+      ],
+      "title": "Navigate Back / Forward"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 524288,
+      "sectionName": "Navigation",
+      "shortcut": "⌥↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 524288,
+          "shortcut": "⌥↩"
+        }
+      ],
+      "title": "Follow Link Under Cursor"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 1048576,
+      "sectionName": "Navigation",
+      "shortcut": "⌘↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 1048576,
+          "shortcut": "⌘↩"
+        }
+      ],
+      "title": "Open Link Under Cursor in New Tab"
+    },
+    {
+      "keyCode": 45,
+      "modifiers": 1048576,
+      "sectionName": "Notes & Files",
+      "shortcut": "⌘N",
+      "shortcuts": [
+        {
+          "keyCode": 45,
+          "modifiers": 1048576,
+          "shortcut": "⌘N"
+        }
+      ],
+      "title": "Create New Note"
+    },
+    {
+      "keyCode": 45,
+      "modifiers": 1179648,
+      "sectionName": "Notes & Files",
+      "shortcut": "⇧⌘N",
+      "shortcuts": [
+        {
+          "keyCode": 45,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘N"
+        }
+      ],
+      "title": "Create New Note in New Pane"
+    },
+    {
+      "keyCode": 51,
+      "modifiers": 1048576,
+      "sectionName": "Notes & Files",
+      "shortcut": "⌘⌫",
+      "shortcuts": [
+        {
+          "keyCode": 51,
+          "modifiers": 1048576,
+          "shortcut": "⌘⌫"
+        }
+      ],
+      "title": "Delete Current File"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1179648,
+      "sectionName": "Notes & Files",
+      "shortcut": "⇧⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘L"
+        }
+      ],
+      "title": "Insert Internal Link"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1048576,
+      "sectionName": "Panes & Tabs",
+      "shortcut": "⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1048576,
+          "shortcut": "⌘T"
+        }
+      ],
+      "title": "New Tab"
+    },
+    {
+      "keyCode": 13,
+      "modifiers": 1048576,
+      "sectionName": "Panes & Tabs",
+      "shortcut": "⌘W",
+      "shortcuts": [
+        {
+          "keyCode": 13,
+          "modifiers": 1048576,
+          "shortcut": "⌘W"
+        }
+      ],
+      "title": "Close Current Tab"
+    },
+    {
+      "keyCode": 17,
+      "modifiers": 1179648,
+      "sectionName": "Panes & Tabs",
+      "shortcut": "⇧⌘T",
+      "shortcuts": [
+        {
+          "keyCode": 17,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘T"
+        }
+      ],
+      "title": "Reopen Closed Tab"
+    },
+    {
+      "keyCode": 48,
+      "modifiers": 262144,
+      "sectionName": "Panes & Tabs",
+      "shortcut": "⌃⇥ / ⌃⇧⇥",
+      "shortcuts": [
+        {
+          "keyCode": 48,
+          "modifiers": 262144,
+          "shortcut": "⌃⇥"
+        },
+        {
+          "keyCode": 48,
+          "modifiers": 393216,
+          "shortcut": "⌃⇧⇥"
+        }
+      ],
+      "title": "Cycle Through Tabs Forward / Backward"
+    },
+    {
+      "keyCode": 14,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘E",
+      "shortcuts": [
+        {
+          "keyCode": 14,
+          "modifiers": 1048576,
+          "shortcut": "⌘E"
+        }
+      ],
+      "title": "Toggle Reading / Editing View"
+    },
+    {
+      "keyCode": 5,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘G",
+      "shortcuts": [
+        {
+          "keyCode": 5,
+          "modifiers": 1048576,
+          "shortcut": "⌘G"
+        }
+      ],
+      "title": "Open Graph View"
+    },
+    {
+      "keyCode": 24,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘= / ⌘-",
+      "shortcuts": [
+        {
+          "keyCode": 24,
+          "modifiers": 1048576,
+          "shortcut": "⌘="
+        },
+        {
+          "keyCode": 27,
+          "modifiers": 1048576,
+          "shortcut": "⌘-"
+        }
+      ],
+      "title": "Zoom In / Out"
+    },
+    {
+      "keyCode": 29,
+      "modifiers": 1048576,
+      "sectionName": "View",
+      "shortcut": "⌘0",
+      "shortcuts": [
+        {
+          "keyCode": 29,
+          "modifiers": 1048576,
+          "shortcut": "⌘0"
+        }
+      ],
+      "title": "Reset Zoom"
+    },
+    {
+      "keyCode": 11,
+      "modifiers": 1048576,
+      "sectionName": "Formatting",
+      "shortcut": "⌘B",
+      "shortcuts": [
+        {
+          "keyCode": 11,
+          "modifiers": 1048576,
+          "shortcut": "⌘B"
+        }
+      ],
+      "title": "Toggle Bold"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 1048576,
+      "sectionName": "Formatting",
+      "shortcut": "⌘I",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 1048576,
+          "shortcut": "⌘I"
+        }
+      ],
+      "title": "Toggle Italic"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 1048576,
+      "sectionName": "Formatting",
+      "shortcut": "⌘K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 1048576,
+          "shortcut": "⌘K"
+        }
+      ],
+      "title": "Insert Markdown Link"
+    },
+    {
+      "keyCode": 37,
+      "modifiers": 1048576,
+      "sectionName": "Formatting",
+      "shortcut": "⌘L",
+      "shortcuts": [
+        {
+          "keyCode": 37,
+          "modifiers": 1048576,
+          "shortcut": "⌘L"
+        }
+      ],
+      "title": "Toggle Checkbox Status"
+    },
+    {
+      "keyCode": 36,
+      "modifiers": 1048576,
+      "sectionName": "Formatting",
+      "shortcut": "⌘↩",
+      "shortcuts": [
+        {
+          "keyCode": 36,
+          "modifiers": 1048576,
+          "shortcut": "⌘↩"
+        }
+      ],
+      "title": "Cycle Bullet / Checkbox Type"
+    },
+    {
+      "keyCode": 126,
+      "modifiers": 524288,
+      "sectionName": "Editing",
+      "shortcut": "⌥↑ / ⌥↓",
+      "shortcuts": [
+        {
+          "keyCode": 126,
+          "modifiers": 524288,
+          "shortcut": "⌥↑"
+        },
+        {
+          "keyCode": 125,
+          "modifiers": 524288,
+          "shortcut": "⌥↓"
+        }
+      ],
+      "title": "Move Line Up / Down"
+    },
+    {
+      "keyCode": 48,
+      "modifiers": 0,
+      "sectionName": "Editing",
+      "shortcut": "⇥ / ⇧⇥",
+      "shortcuts": [
+        {
+          "keyCode": 48,
+          "modifiers": 0,
+          "shortcut": "⇥"
+        },
+        {
+          "keyCode": 48,
+          "modifiers": 131072,
+          "shortcut": "⇧⇥"
+        }
+      ],
+      "title": "Indent / Outdent List Item"
+    },
+    {
+      "keyCode": 30,
+      "modifiers": 1572864,
+      "sectionName": "Editing",
+      "shortcut": "⌥⌘] / ⌥⌘[",
+      "shortcuts": [
+        {
+          "keyCode": 30,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘]"
+        },
+        {
+          "keyCode": 33,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘["
+        }
+      ],
+      "title": "Fold / Unfold at Cursor"
+    },
+    {
+      "keyCode": 34,
+      "modifiers": 1572864,
+      "sectionName": "Editing",
+      "shortcut": "⌥⌘I / ⌥⌘J",
+      "shortcuts": [
+        {
+          "keyCode": 34,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘I"
+        },
+        {
+          "keyCode": 38,
+          "modifiers": 1572864,
+          "shortcut": "⌥⌘J"
+        }
+      ],
+      "title": "Fold All Headings / Unfold All"
+    },
+    {
+      "keyCode": 40,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘K",
+      "shortcuts": [
+        {
+          "keyCode": 40,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘K"
+        }
+      ],
+      "title": "Delete Current Line"
+    },
+    {
+      "keyCode": 2,
+      "modifiers": 1179648,
+      "sectionName": "Editing",
+      "shortcut": "⇧⌘D",
+      "shortcuts": [
+        {
+          "keyCode": 2,
+          "modifiers": 1179648,
+          "shortcut": "⇧⌘D"
+        }
+      ],
+      "title": "Duplicate Line"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    "Search & Command Palette",
+    "Navigation",
+    "Notes & Files",
+    "Panes & Tabs",
+    "View",
+    "Formatting",
+    "Editing"
+  ]
+}
